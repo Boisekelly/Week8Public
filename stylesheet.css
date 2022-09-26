@@ -1,0 +1,41 @@
+
+table, th, td 
+{
+  border: 10px solid red;
+}
+h1
+{
+font-family: cursive;
+color: purple;
+}
+#story 
+{
+    color: brown;
+  }
+#info
+{
+    font-size: 40px;
+}
+    .intro
+    {    
+            text-align: center;    
+            color: rgb(66, 150, 21);    
+            font-size: 20px;  
+     }    
+     .bunny
+    {      
+      color: rgb(66, 150, 21);    
+      font-size: 20px;  
+     }  
+.kitty
+     {    
+      color: rgb(66, 150, 21);    
+      font-size: 20px;  
+} 
+.dog 
+{    
+  color: rgb(66, 150, 21);    
+  font-size: 20px;  
+}  
+
+ 
